@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FjYA8udJq6TdxvGyGkwBRgybgbO88DpZ2jGvnUcPsaY=",
+  "Source": "urbasBackend",
+  "BasePath": "_content/urbasBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
